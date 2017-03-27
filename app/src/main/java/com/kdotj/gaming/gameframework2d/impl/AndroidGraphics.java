@@ -7,8 +7,8 @@ import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.Rect;
 
-import com.kdotj.gaming.mrnom.framework.Graphics;
-import com.kdotj.gaming.mrnom.framework.Pixmap;
+import com.kdotj.gaming.gameframework2d.Graphics;
+import com.kdotj.gaming.gameframework2d.Pixmap;
 
 import java.io.IOException;
 import java.io.InputStream;

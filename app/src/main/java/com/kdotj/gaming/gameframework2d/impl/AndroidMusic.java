@@ -3,7 +3,7 @@ package com.kdotj.gaming.gameframework2d.impl;
 import android.content.res.AssetFileDescriptor;
 import android.media.MediaPlayer;
 
-import com.kdotj.gaming.mrnom.framework.Music;
+import com.kdotj.gaming.gameframework2d.Music;
 
 import java.io.IOException;
 

@@ -2,7 +2,8 @@ package com.kdotj.gaming.gameframework2d.impl;
 
 import android.media.SoundPool;
 
-import com.kdotj.gaming.mrnom.framework.Sound;
+import com.kdotj.gaming.gameframework2d.Sound;
+
 
 /**
  * Created by kyle.jablonski on 3/22/17.

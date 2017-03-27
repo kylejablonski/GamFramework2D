@@ -2,8 +2,9 @@ package com.kdotj.gaming.gameframework2d.impl;
 
 import android.graphics.Bitmap;
 
-import com.kdotj.gaming.mrnom.framework.Graphics;
-import com.kdotj.gaming.mrnom.framework.Pixmap;
+import com.kdotj.gaming.gameframework2d.Graphics;
+import com.kdotj.gaming.gameframework2d.Pixmap;
+
 
 /**
  * Created by kyle.jablonski on 3/24/17.

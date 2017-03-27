@@ -6,9 +6,9 @@ import android.content.res.AssetManager;
 import android.media.AudioManager;
 import android.media.SoundPool;
 
-import com.kdotj.gaming.mrnom.framework.Audio;
-import com.kdotj.gaming.mrnom.framework.Music;
-import com.kdotj.gaming.mrnom.framework.Sound;
+import com.kdotj.gaming.gameframework2d.Audio;
+import com.kdotj.gaming.gameframework2d.Music;
+import com.kdotj.gaming.gameframework2d.Sound;
 
 import java.io.IOException;
 

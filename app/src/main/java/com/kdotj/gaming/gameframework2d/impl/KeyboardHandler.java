@@ -3,8 +3,8 @@ package com.kdotj.gaming.gameframework2d.impl;
 import android.view.KeyEvent;
 import android.view.View;
 
-import com.kdotj.gaming.mrnom.framework.Input;
-import com.kdotj.gaming.mrnom.framework.Pool;
+import com.kdotj.gaming.gameframework2d.Input;
+import com.kdotj.gaming.gameframework2d.Pool;
 
 import java.util.ArrayList;
 import java.util.List;

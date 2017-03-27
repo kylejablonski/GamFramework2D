@@ -3,7 +3,7 @@ package com.kdotj.gaming.gameframework2d.impl;
 import android.content.res.AssetManager;
 import android.os.Environment;
 
-import com.kdotj.gaming.mrnom.framework.FileIO;
+import com.kdotj.gaming.gameframework2d.FileIO;
 
 import java.io.File;
 import java.io.FileInputStream;
